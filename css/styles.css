@@ -23,7 +23,3 @@ main{
 #logo img{
     width: 50px;
 }
-#navbar{
-display: flex;
-align-items: baseline;
-}
