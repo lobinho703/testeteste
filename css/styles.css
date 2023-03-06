@@ -1,0 +1,29 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+html{
+    min-height: 100vh;
+    position: relative;
+}
+main{
+    margin-bottom: 250px;
+}
+/*navbar*/
+
+#logo{
+    position: absolute;
+    top: 10px;
+    left: 9.5;
+}
+#logo img{
+    width: 50px;
+}
+#navbar{
+display: flex;
+align-items: baseline;
+}
